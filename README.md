@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$4,499**, transparent on the [solution page](https://miracuves.com/banking-solution/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,699**, transparent on the [solution page](https://miracuves.com/banking-solution/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXBank
 {CATEGORY}        Digital Banking & Finance Platform
 {DEMO_WEB}        mxbank.mimeld.com
-{PRICE}           $4,499
+{PRICE}           $3,699
 {SLUG}            banking-solution
 {SOLUTION_URL}    https://miracuves.com/banking-solution/
 {VERTICAL}        banking
